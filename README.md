@@ -3,4 +3,7 @@
 ## Author
 Rene Bennemann
 ## Date
-24.09.2014
+2019-09-24 Tuesday
+
+## Description
+This is my first repository
