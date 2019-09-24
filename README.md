@@ -1,7 +1,7 @@
 # Python Lesson
 
 ## Author
-Rene Bennemann
+Rene Peter Bennemann
 ## Date
 2019-09-24 Tuesday
 
