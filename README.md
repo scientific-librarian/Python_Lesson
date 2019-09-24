@@ -1,6 +1,11 @@
 # Python Lesson
 
 ## Author
-Rene Bennemann
+Rene Peter Bennemann
 ## Date
-24.09.2019
+
+2019-09-24 Tuesday
+
+## Description
+This is my first repository
+
