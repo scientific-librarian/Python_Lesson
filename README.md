@@ -1,6 +1,6 @@
 # Python Lesson
 
 ## Author
-Rene
+Rene Bennemann
 ## Date
 24.09.2014
